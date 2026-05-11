@@ -1,2 +1,1 @@
-"# GIT-kurssi" 
-"# GIT-kurssi" 
+# This is a README
